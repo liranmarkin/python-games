@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import pygame
 import random
 UNIT_SIZE = 30
